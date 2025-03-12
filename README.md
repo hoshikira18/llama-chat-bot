@@ -1,6 +1,9 @@
 ![image](https://github.com/user-attachments/assets/cbe7259d-0d77-4209-835b-edbcb1cf7359)
 # 🤖 AI Chatbot - Powered by LLaMA 3.2
 
+## Guide: 
+https://www.youtube.com/watch?v=W1S3VSO35ow
+
 An AI-powered chatbot utilizing the **LLaMA 3.2** model. This project provides an interactive chat interface with a locally hosted model, enabling real-time intelligent responses without internet dependency.
 
 ## 🚀 Features
